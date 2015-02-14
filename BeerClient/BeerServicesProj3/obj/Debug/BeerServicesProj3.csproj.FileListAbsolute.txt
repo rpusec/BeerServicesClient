@@ -1,0 +1,48 @@
+c:\users\qlab\documents\visual studio 2012\Projects\BeerServicesProj3\BeerServicesProj3\bin\Debug\BeerServicesProj3.exe.config
+c:\users\qlab\documents\visual studio 2012\Projects\BeerServicesProj3\BeerServicesProj3\bin\Debug\BeerServicesProj3.exe
+c:\users\qlab\documents\visual studio 2012\Projects\BeerServicesProj3\BeerServicesProj3\bin\Debug\BeerServicesProj3.pdb
+c:\users\qlab\documents\visual studio 2012\Projects\BeerServicesProj3\BeerServicesProj3\obj\Debug\BeerServicesProj3.csprojResolveAssemblyReference.cache
+c:\users\qlab\documents\visual studio 2012\Projects\BeerServicesProj3\BeerServicesProj3\obj\Debug\BeerServicesProj3.Form1.resources
+c:\users\qlab\documents\visual studio 2012\Projects\BeerServicesProj3\BeerServicesProj3\obj\Debug\BeerServicesProj3.Properties.Resources.resources
+c:\users\qlab\documents\visual studio 2012\Projects\BeerServicesProj3\BeerServicesProj3\obj\Debug\BeerServicesProj3.csproj.GenerateResource.Cache
+c:\users\qlab\documents\visual studio 2012\Projects\BeerServicesProj3\BeerServicesProj3\obj\Debug\BeerServicesProj3.exe
+c:\users\qlab\documents\visual studio 2012\Projects\BeerServicesProj3\BeerServicesProj3\obj\Debug\BeerServicesProj3.pdb
+C:\Users\Adam\Desktop\BeerServicesProj3\BeerServicesProj3\bin\Debug\BeerServicesProj3.exe.config
+C:\Users\Adam\Desktop\BeerServicesProj3\BeerServicesProj3\obj\Debug\BeerServicesProj3.exe
+C:\Users\Adam\Desktop\BeerServicesProj3\BeerServicesProj3\obj\Debug\BeerServicesProj3.pdb
+C:\Users\Adam\Desktop\BeerServicesProj3\BeerServicesProj3\bin\Debug\BeerServicesProj3.exe
+C:\Users\Adam\Desktop\BeerServicesProj3\BeerServicesProj3\bin\Debug\BeerServicesProj3.pdb
+C:\Users\Adam\Desktop\BeerServicesProj3\BeerServicesProj3\obj\Debug\BeerServicesProj3.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\BeerServicesProj3\BeerServicesProj3\obj\Debug\BeerServicesProj3.Form1.resources
+C:\Users\Adam\Desktop\BeerServicesProj3\BeerServicesProj3\obj\Debug\BeerServicesProj3.Properties.Resources.resources
+C:\Users\Adam\Desktop\BeerServicesProj3\BeerServicesProj3\obj\Debug\BeerServicesProj3.csproj.GenerateResource.Cache
+C:\Users\QLAB\Desktop\BeerServicesProj3\BeerServicesProj3\bin\Debug\BeerServicesProj3.exe.config
+C:\Users\QLAB\Desktop\BeerServicesProj3\BeerServicesProj3\obj\Debug\BeerServicesProj3.exe
+C:\Users\QLAB\Desktop\BeerServicesProj3\BeerServicesProj3\obj\Debug\BeerServicesProj3.pdb
+C:\Users\QLAB\Desktop\BeerServicesProj3\BeerServicesProj3\obj\Debug\BeerServicesProj3.csprojResolveAssemblyReference.cache
+C:\Users\QLAB\Desktop\BeerServicesProj3\BeerServicesProj3\obj\Debug\BeerServicesProj3.Form1.resources
+C:\Users\QLAB\Desktop\BeerServicesProj3\BeerServicesProj3\obj\Debug\BeerServicesProj3.Properties.Resources.resources
+C:\Users\QLAB\Desktop\BeerServicesProj3\BeerServicesProj3\obj\Debug\BeerServicesProj3.csproj.GenerateResource.Cache
+C:\Users\QLAB\Desktop\BeerServicesProj3\BeerServicesProj3\bin\Debug\BeerServicesProj3.exe
+C:\Users\QLAB\Desktop\BeerServicesProj3\BeerServicesProj3\bin\Debug\BeerServicesProj3.pdb
+C:\Users\Adam\Desktop\BeerServicesProj3\BeerServicesProj3\bin\Debug\BeerServiceClient.sdf
+C:\Users\Adam\Desktop\BeerClient\BeerServicesProj3\bin\Debug\BeerServicesProj3.exe.config
+C:\Users\Adam\Desktop\BeerClient\BeerServicesProj3\obj\Debug\BeerServicesProj3.exe
+C:\Users\Adam\Desktop\BeerClient\BeerServicesProj3\obj\Debug\BeerServicesProj3.pdb
+C:\Users\Adam\Desktop\BeerClient\BeerServicesProj3\bin\Debug\BeerServiceClient.sdf
+C:\Users\Adam\Desktop\BeerClient\BeerServicesProj3\bin\Debug\BeerServicesProj3.exe
+C:\Users\Adam\Desktop\BeerClient\BeerServicesProj3\bin\Debug\BeerServicesProj3.pdb
+C:\Users\Adam\Desktop\BeerClient\BeerServicesProj3\obj\Debug\BeerServicesProj3.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\BeerClient\BeerServicesProj3\obj\Debug\BeerServicesProj3.Form1.resources
+C:\Users\Adam\Desktop\BeerClient\BeerServicesProj3\obj\Debug\BeerServicesProj3.Properties.Resources.resources
+C:\Users\Adam\Desktop\BeerClient\BeerServicesProj3\obj\Debug\BeerServicesProj3.csproj.GenerateResource.Cache
+C:\Users\Adam\Desktop\iste-341_project3_roman_pusec\BeerClient\BeerServicesProj3\bin\Debug\BeerServicesProj3.exe.config
+C:\Users\Adam\Desktop\iste-341_project3_roman_pusec\BeerClient\BeerServicesProj3\obj\Debug\BeerServicesProj3.exe
+C:\Users\Adam\Desktop\iste-341_project3_roman_pusec\BeerClient\BeerServicesProj3\obj\Debug\BeerServicesProj3.pdb
+C:\Users\Adam\Desktop\iste-341_project3_roman_pusec\BeerClient\BeerServicesProj3\bin\Debug\BeerServiceClient.sdf
+C:\Users\Adam\Desktop\iste-341_project3_roman_pusec\BeerClient\BeerServicesProj3\bin\Debug\BeerServicesProj3.exe
+C:\Users\Adam\Desktop\iste-341_project3_roman_pusec\BeerClient\BeerServicesProj3\bin\Debug\BeerServicesProj3.pdb
+C:\Users\Adam\Desktop\iste-341_project3_roman_pusec\BeerClient\BeerServicesProj3\obj\Debug\BeerServicesProj3.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\iste-341_project3_roman_pusec\BeerClient\BeerServicesProj3\obj\Debug\BeerServicesProj3.Form1.resources
+C:\Users\Adam\Desktop\iste-341_project3_roman_pusec\BeerClient\BeerServicesProj3\obj\Debug\BeerServicesProj3.Properties.Resources.resources
+C:\Users\Adam\Desktop\iste-341_project3_roman_pusec\BeerClient\BeerServicesProj3\obj\Debug\BeerServicesProj3.csproj.GenerateResource.Cache
